@@ -4,13 +4,13 @@ This repository is a step-by-step tutorial for learning and experimenting with G
 
 ## Table of Contents
 
-1. **0_serialize/** — Basic serialized code in Go.
-2. **1_goroutine/** — Introduction to goroutines: how to start and use them.
-3. **2_wait_group/** — Using `sync.WaitGroup` to wait for goroutines to finish, including panic handling.
-4. **3_channel/** — Communicating between goroutines using channels.
-5. **4_mutex/** — Protecting shared data with mutexes, and what happens without them.
-6. **5_worker/** — Building worker pools and managing concurrent tasks.
-7. **6_select/** — Using the `select` statement to handle multiple channel operations.
+- **0_serialize/** — Basic serialized code in Go.
+- **1_goroutine/** — Introduction to goroutines: how to start and use them.
+- **2_wait_group/** — Using `sync.WaitGroup` to wait for goroutines to finish, including panic handling.
+- **3_channel/** — Communicating between goroutines using channels.
+- **4_mutex/** — Protecting shared data with mutexes, and what happens without them.
+- **5_worker/** — Building worker pools and managing concurrent tasks.
+- **6_select/** — Using the `select` statement to handle multiple channel operations.
 
 ## How to Use
 
