@@ -4,7 +4,7 @@ This repository is a step-by-step tutorial for learning and experimenting with G
 
 ## Table of Contents
 
-1. **0_serialize/** — Basic synchronization primitives in Go.
+1. **0_serialize/** — Basic serialized code in Go.
 2. **1_goroutine/** — Introduction to goroutines: how to start and use them.
 3. **2_wait_group/** — Using `sync.WaitGroup` to wait for goroutines to finish, including panic handling.
 4. **3_channel/** — Communicating between goroutines using channels.
